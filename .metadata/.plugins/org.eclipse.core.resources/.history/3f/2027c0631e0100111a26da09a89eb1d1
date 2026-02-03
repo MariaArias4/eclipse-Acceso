@@ -1,0 +1,5 @@
+package com.taller.config;
+
+public class Conexion {
+
+}

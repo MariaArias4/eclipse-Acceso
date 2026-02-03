@@ -1,0 +1,1531 @@
+!SESSION 2026-01-13 16:57:35.433 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\Tarde\eclipse-Acceso -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 16:57:37.625
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 16:57:38.613
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-01-13 16:57:40.348
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-13 16:57:40.348
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-13 16:57:43.694
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-01-13 17:04:57.326 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:04:59.021
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:05:03.056
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-01-13 17:05:04.584
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-13 17:05:04.584
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-13 17:05:07.821
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-01-13 17:06:59.661 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:07:01.851
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:07:05.006
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-01-13 17:07:06.538
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-13 17:07:06.538
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-13 17:07:10.176
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-01-13 17:35:02.585 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\Tarde\eclipse-Acceso -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:35:04.713
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:35:05.887
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-01-13 17:35:07.243
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-13 17:35:07.243
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-13 17:35:10.693
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-01-13 17:36:21.958 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\Tarde\eclipse-Acceso -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:36:23.655
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-13 17:36:24.637
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-01-13 17:36:26.272
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-13 17:36:26.272
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-13 17:36:29.533
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:37:43.267
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1038)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1111)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:282)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:193)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:37:43.268
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:37:43.269
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1038)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1111)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:282)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:193)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:37:43.269
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:38:24.865
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:38:24.866
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:38:24.867
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:38:24.867
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:38:25.776
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:38:25.776
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:38:25.778
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:38:25.778
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:07.607
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1248)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:790)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:07.607
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:07.608
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1248)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:790)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:07.609
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:09.594
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:09.595
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:09.595
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:09.595
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:11.479
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1038)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1111)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:282)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:193)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:11.479
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:11.480
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1038)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1111)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:282)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:193)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:11.480
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:14.875
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:14.875
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:39:14.877
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1056)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:274)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:39:14.877
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:45:11.854
+!MESSAGE Failed to find package fragment root for <default> (not open) [in src [in BibliotecaAcceso]]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.PackageFragment.getUnderlyingResource(PackageFragment.java:426)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1248)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:790)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:45:11.854
+!MESSAGE src [in BibliotecaAcceso] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2026-01-13 17:45:11.855
+!MESSAGE Failed to find package fragment root for src (not open) [in BibliotecaAcceso]
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): src [in BibliotecaAcceso] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:550)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getUnderlyingResource(PackageFragmentRoot.java:761)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findModuleContext(SearchableEnvironment.java:1145)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:998)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1700)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:719)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:228)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:517)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:881)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:394)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1248)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:790)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-13 17:45:11.856
+!MESSAGE src [in BibliotecaAcceso] does not exist
+!SESSION 2026-01-20 17:02:27.102 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-20 17:03:03.631
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-20 17:03:15.141
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-01-20 17:03:17.108
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-01-20 17:03:17.108
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-20 17:03:25.706
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-20 18:13:33.671
+!MESSAGE BadLocationException
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.nodeByLine(TreeLineTracker.java:302)
+	at org.eclipse.jface.text.TreeLineTracker.getLineLength(TreeLineTracker.java:1116)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineLength(AbstractLineTracker.java:240)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.getLineLength(BasicStructuredDocument.java:1486)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getLineLength(LSPEclipseUtils.java:211)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toOffset(LSPEclipseUtils.java:204)
+	at org.eclipse.lsp4e.operations.diagnostics.LSPDiagnosticsToMarkers.getExistingMarkerFor(LSPDiagnosticsToMarkers.java:210)
+	at org.eclipse.lsp4e.operations.diagnostics.LSPDiagnosticsToMarkers$1.runInWorkspace(LSPDiagnosticsToMarkers.java:154)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-20 18:13:33.672
+!MESSAGE BadLocationException
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.nodeByLine(TreeLineTracker.java:302)
+	at org.eclipse.jface.text.TreeLineTracker.getLineLength(TreeLineTracker.java:1116)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineLength(AbstractLineTracker.java:240)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.getLineLength(BasicStructuredDocument.java:1486)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getLineLength(LSPEclipseUtils.java:211)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toOffset(LSPEclipseUtils.java:204)
+	at org.eclipse.lsp4e.operations.diagnostics.LSPDiagnosticsToMarkers.getExistingMarkerFor(LSPDiagnosticsToMarkers.java:210)
+	at org.eclipse.lsp4e.operations.diagnostics.LSPDiagnosticsToMarkers$1.runInWorkspace(LSPDiagnosticsToMarkers.java:154)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2026-02-03 17:19:57.292 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-03 17:20:28.650
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-03 17:20:39.932
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-02-03 17:20:42.095
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-02-03 17:20:42.095
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-03 17:20:47.999
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-02-03 18:34:13.292 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/Tarde/eclipse-Acceso/ -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-03 18:34:18.040
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 4 0 2026-02-03 18:34:19.179
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wildwebdeveloper.xml [470]
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; bundle-version="0.1.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.ui [632]
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+              org.eclipse.tm4e.core [628]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.languageconfiguration; bundle-version="0.1.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.languageconfiguration; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.languageconfiguration [630]
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.3.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.lsp4e; bundle-version="0.16.0"
+    -> Bundle-SymbolicName: org.eclipse.lsp4e; bundle-version="0.19.3.202512021035"; singleton:="true"
+       org.eclipse.lsp4e [622]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 18:34:19.210
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.lsp4e [622]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.ui [632]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                     org.eclipse.tm4e.core [628]
+                       Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.lsp4e.debug 4 0 2026-02-03 18:34:19.210
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.lsp4e.debug [623]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.lsp4e; bundle-version="0.19.0"
+    -> Bundle-SymbolicName: org.eclipse.lsp4e; bundle-version="0.19.3.202512021035"; singleton:="true"
+       org.eclipse.lsp4e [622]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.ui [632]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+                     org.eclipse.tm4e.registry [631]
+                       Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                         -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                            org.eclipse.tm4e.core [628]
+                              Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.core 4 0 2026-02-03 18:34:19.219
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.core [628]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.language_pack 4 0 2026-02-03 18:34:19.219
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.language_pack [629]
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.ui [632]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                     org.eclipse.tm4e.core [628]
+                       Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2026-02-03 18:34:19.219
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.languageconfiguration [630]
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.registry [631]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+              org.eclipse.tm4e.core [628]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.registry 4 0 2026-02-03 18:34:19.226
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.registry [631]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+       org.eclipse.tm4e.core [628]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2026-02-03 18:34:19.226
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.ui [632]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.registry [631]
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+              org.eclipse.tm4e.core [628]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.wildwebdeveloper 4 0 2026-02-03 18:34:19.232
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wildwebdeveloper [633]
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.1.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.registry [631]
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+              org.eclipse.tm4e.core [628]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.lsp4e; bundle-version="0.18.9"
+    -> Bundle-SymbolicName: org.eclipse.lsp4e; bundle-version="0.19.3.202512021035"; singleton:="true"
+       org.eclipse.lsp4e [622]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.ui [632]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.wildwebdeveloper.embedder.node 4 0 2026-02-03 18:34:19.235
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wildwebdeveloper.embedder.node [634]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-03 18:34:22.569
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-03 18:34:32.122
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-03 18:34:32.247
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.callHierarchy.callHierarchyView" id and the "Call Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-03 18:34:32.249
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.operations.typeHierarchy.TypeHierarchyView" id and the "Type Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-03 18:34:32.250
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.lsp4e.ui.languageServersView" id and the "Language Servers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2026-02-03 19:01:15.955 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/C:/Users/Tarde/eclipse-Acceso/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2026-02-03 19:01:19.632
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-03 19:01:19.924
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 4 0 2026-02-03 19:01:20.797
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wildwebdeveloper.xml [470]
+  Unresolved requirement: Require-Bundle: org.eclipse.lsp4e; bundle-version="0.16.0"
+    -> Bundle-SymbolicName: org.eclipse.lsp4e; bundle-version="0.19.3.202512021035"; singleton:="true"
+       org.eclipse.lsp4e [622]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.ui [632]
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                     org.eclipse.tm4e.core [628]
+                       Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.languageconfiguration; bundle-version="0.1.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.languageconfiguration; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.languageconfiguration [630]
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; bundle-version="0.1.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.3.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-03 19:01:20.825
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.lsp4e [622]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.ui [632]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                     org.eclipse.tm4e.core [628]
+                       Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.lsp4e.debug 4 0 2026-02-03 19:01:20.828
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.lsp4e.debug [623]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.ui [632]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                     org.eclipse.tm4e.core [628]
+                       Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.lsp4e; bundle-version="0.19.0"
+    -> Bundle-SymbolicName: org.eclipse.lsp4e; bundle-version="0.19.3.202512021035"; singleton:="true"
+       org.eclipse.lsp4e [622]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; resolution:="optional"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.core 4 0 2026-02-03 19:01:20.830
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.core [628]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.language_pack 4 0 2026-02-03 19:01:20.833
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.language_pack [629]
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.ui [632]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.registry [631]
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                     org.eclipse.tm4e.core [628]
+                       Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2026-02-03 19:01:20.836
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.languageconfiguration [630]
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+       org.eclipse.tm4e.core [628]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.registry [631]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.registry 4 0 2026-02-03 19:01:20.838
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.registry [631]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+       org.eclipse.tm4e.core [628]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2026-02-03 19:01:20.840
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.tm4e.ui [632]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+       org.eclipse.tm4e.registry [631]
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+              org.eclipse.tm4e.core [628]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.wildwebdeveloper 4 0 2026-02-03 19:01:20.844
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wildwebdeveloper [633]
+  Unresolved requirement: Require-Bundle: org.eclipse.lsp4e; bundle-version="0.18.9"
+    -> Bundle-SymbolicName: org.eclipse.lsp4e; bundle-version="0.19.3.202512021035"; singleton:="true"
+       org.eclipse.lsp4e [622]
+         Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+         Unresolved requirement: Require-Bundle: org.eclipse.tm4e.ui; resolution:="optional"
+           -> Bundle-SymbolicName: org.eclipse.tm4e.ui; bundle-version="0.17.1.202511281119"; singleton:="true"
+              org.eclipse.tm4e.ui [632]
+                Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+                     org.eclipse.tm4e.registry [631]
+                       Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                         -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+                            org.eclipse.tm4e.core [628]
+                              Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+                Unresolved requirement: Require-Bundle: org.eclipse.tm4e.core; bundle-version="0.17.1"
+                  -> Bundle-SymbolicName: org.eclipse.tm4e.core; bundle-version="0.17.1.202511281119"
+  Unresolved requirement: Require-Bundle: org.eclipse.tm4e.registry; bundle-version="0.1.0"
+    -> Bundle-SymbolicName: org.eclipse.tm4e.registry; bundle-version="0.17.1.202511281119"; singleton:="true"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.wildwebdeveloper.embedder.node 4 0 2026-02-03 19:01:20.846
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wildwebdeveloper.embedder.node [634]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=21))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-03 19:01:23.148
+!MESSAGE Logback config file: C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-03 19:01:30.399
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tarde'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

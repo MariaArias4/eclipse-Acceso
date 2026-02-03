@@ -1,0 +1,65 @@
+package com.taller.controller;
+import com.taller.dao.VehiculoDAO;
+import com.taller.dao.PropietarioDAO;
+import com.taller.model.Vehiculo;
+import java.io.IOException;
+import java.util.List;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
+
+@WebServlet("/VehiculoController")
+public class VehiculoController extends HttpServlet {
+    
+    VehiculoDAO dao = new VehiculoDAO();
+    PropietarioDAO daoProp = new PropietarioDAO();
+
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String accion = request.getParameter("accion");
+        
+        if (accion == null || accion.isEmpty()) {
+            listar(request, response);
+        } else {
+            switch (accion) {
+                case "listar":
+                    listar(request, response);
+                    break;
+                case "nuevo":
+                    // Necesitamos la lista de propietarios para el <select> en el formulario
+                    request.setAttribute("listaPropietarios", daoProp.listar());
+                    request.getRequestDispatcher("views/form-vehiculo.jsp").forward(request, response);
+                    break;
+                case "dashboard":
+                    mostrarDashboard(request, response);
+                    break;
+                case "eliminar":
+                    int id = Integer.parseInt(request.getParameter("id"));
+                    dao.eliminar(id);
+                    listar(request, response);
+                    break;
+                // ... agregar casos editar
+            }
+        }
+    }
+
+    private void listar(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        List<Vehiculo> lista = dao.listarTodoInfoCompleta();
+        req.setAttribute("vehiculos", lista);
+        req.getRequestDispatcher("views/lista-vehiculos.jsp").forward(req, resp);
+    }
+
+    private void mostrarDashboard(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        req.setAttribute("total", dao.getTotalVehiculos());
+        req.setAttribute("antiguos", dao.get5MasAntiguos());
+        req.getRequestDispatcher("views/dashboard.jsp").forward(req, resp);
+    }
+
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        // Aquí manejas el formulario de Crear/Actualizar
+        String marca = request.getParameter("marca");
+        int anio = Integer.parseInt(request.getParameter("anio"));
+        int idProp = Integer.parseInt(request.getParameter("idPropietario"));
+        // ... crear objeto y llamar a dao.agregar()
+        response.sendRedirect("VehiculoController?accion=listar");
+    }
+}

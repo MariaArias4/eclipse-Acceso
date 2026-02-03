@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+C:\Users\Tarde\eclipse-Acceso\.metadata\.plugins\org.eclipse.jdt.core
+984230584.index
+2176039822.index
+1665258842.index
+2259670645.index
+1104022656.index
+1865797976.index
+3814208313.index
+3612347018.index
+778578493.index
+3678714010.index
+1192739386.index
+1633769132.index
+1829756797.index
+3392076073.index
+38501744.index
+1297737256.index
